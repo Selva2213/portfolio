@@ -49,33 +49,10 @@ const Home = () => {
           <div className="social">
             <a
               className="link"
-              href="https://www.facebook.com/narender.singhbisht.3538"
-              rel="noreferrer"
-              target="_blank"
-              aria-label="facebook"
-             
-            >
-              <FaFacebook data-aos="fade-up"
-              data-aos-delay="100"/>
-            </a>
-            <a
-              className="link"
-              href="https://www.instagram.com/selvakumar_selvaraj__/?hl=en"
-              rel="noreferrer"
-              target="_blank"
-              aria-label="instagram"
-            
-            >
-              <FaInstagram   data-aos="fade-up"
-              data-aos-delay="200" />
-            </a>
-            <a
-              className="link"
               href="https://www.linkedin.com/in/selvakumar-selvaraj-b812a326a/"
               rel="noreferrer"
               target="_blank"
-              aria-label="linkedin"
-              
+              aria-label="linkedin" 
             >
               <FaLinkedin data-aos="fade-up"
               data-aos-delay="300" />
